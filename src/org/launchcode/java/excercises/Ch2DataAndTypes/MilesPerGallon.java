@@ -1,4 +1,4 @@
-package org.launchcode.excercises;
+package org.launchcode.java.excercises.Ch2DataAndTypes;
 
 import java.util.Scanner;
 
